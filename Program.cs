@@ -1,11 +1,21 @@
-﻿public class Program
+﻿public class ValueType
+{
+    public int display(out int num)
+    {
+        num = 50;
+        return num+5;
+        
+    }
+        
+}
+public class Program
 {
     public static void Main(String[] args)
     {
-        char[] arr = new char[] { 'a', 'b', 'c', 'a', 'b', 'd', 'f', 'c' };
-        var count = arr.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count());
-        foreach (var cha in count)
-            Console.WriteLine($"{cha.Key}-{cha.Value}");
+        int num;
+        ValueType rep = new ValueType();
+        num = rep.display(out num);
+        Console.WriteLine(num);
         Console.ReadLine();
     }
 }
