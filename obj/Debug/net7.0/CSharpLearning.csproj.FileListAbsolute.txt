@@ -1,0 +1,15 @@
+/Users/sanjaypatidar/Projects/CSharpTutorial/bin/Debug/net7.0/CSharpLearning
+/Users/sanjaypatidar/Projects/CSharpTutorial/bin/Debug/net7.0/CSharpLearning.deps.json
+/Users/sanjaypatidar/Projects/CSharpTutorial/bin/Debug/net7.0/CSharpLearning.runtimeconfig.json
+/Users/sanjaypatidar/Projects/CSharpTutorial/bin/Debug/net7.0/CSharpLearning.dll
+/Users/sanjaypatidar/Projects/CSharpTutorial/bin/Debug/net7.0/CSharpLearning.pdb
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.csproj.AssemblyReference.cache
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.AssemblyInfoInputs.cache
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.AssemblyInfo.cs
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.csproj.CoreCompileInputs.cache
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.dll
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/refint/CSharpLearning.dll
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.pdb
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/CSharpLearning.genruntimeconfig.cache
+/Users/sanjaypatidar/Projects/CSharpTutorial/obj/Debug/net7.0/ref/CSharpLearning.dll
